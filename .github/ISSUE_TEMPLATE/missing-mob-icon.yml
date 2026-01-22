@@ -1,5 +1,6 @@
 name: Missing Mob Icon
 description: Request an icon for a missing mob in the Blightfall resource pack
+title: "Missing Icon: "
 labels:
   - missing-icon
 
